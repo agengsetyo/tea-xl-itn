@@ -1,6 +1,6 @@
 {
   "name": "tea-xl-itn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/agengsetyo/tea-xl-itn/issues"
   },
-  "homepage": "https://github.com/agengsetyo/tea-xl-itn#readme"
+  "homepage": "https://github.com/agengsetyo/tea-xl-itn#readme",
+  "dependencies": {
+    "tea-helper-leap-year": "^1.0.1"
+  }
 }

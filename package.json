@@ -1,6 +1,6 @@
 {
   "name": "tea-xl-itn",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/agengsetyo/tea-xl-itn#readme",
   "dependencies": {
-    "tea-helper-leap-year": "^1.0.1"
+    "tea-bool": "^1.1.1",
+    "tea-helper-leap-year": "^1.0.1",
+    "tea-helper-strings": "^1.0.1",
+    "tea-sekiro-shadows": "^1.0.0"
   }
 }
